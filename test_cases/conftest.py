@@ -6,7 +6,7 @@ from utilities.utilities import SingletonLogger, BrowserFactory, DateFactory, Sc
 # --------------------------
 # Pytest Hooks & Fixtures
 # --------------------------
-@pytest.fixture(scope="class", params=["chrome"])#, "edge", "firefox"])
+@pytest.fixture(scope="class", params=["chrome", "edge", "firefox"])
 def setup(request):
     browser_name = request.param
     browser = BrowserFactory.get_browser(browser_name)
