@@ -1,0 +1,1975 @@
+02/14/2025 09:42:06 PM: INFO: Launching Chrome Browser
+02/14/2025 09:42:07 PM: INFO: INFO :: chrome :: Navigating to letcode test page.
+02/14/2025 09:42:11 PM: ERROR: ERROR :: chrome :: Unexpected error while opening letcode test
+02/14/2025 09:42:13 PM: INFO: Closing Chrome Browser
+02/14/2025 09:43:35 PM: INFO: Launching Chrome Browser
+02/14/2025 09:43:38 PM: INFO: Closing Chrome Browser
+02/14/2025 09:44:14 PM: INFO: Launching Chrome Browser
+02/14/2025 09:44:16 PM: INFO: Closing Chrome Browser
+02/14/2025 09:45:53 PM: INFO: Launching Chrome Browser
+02/14/2025 09:45:53 PM: INFO: INFO :: chrome :: Navigating to letcode test page.
+02/14/2025 09:45:58 PM: INFO: Closing Chrome Browser
+02/14/2025 09:46:45 PM: INFO: Launching Chrome Browser
+02/14/2025 09:46:45 PM: INFO: INFO :: chrome :: Navigating to letcode test page.
+02/14/2025 09:46:52 PM: INFO: Closing Chrome Browser
+02/14/2025 10:14:01 PM: INFO: Launching Chrome Browser
+02/14/2025 10:14:01 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:14:05 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:14:09 PM: INFO: Closing Chrome Browser
+02/14/2025 10:16:24 PM: INFO: Launching Chrome Browser
+02/14/2025 10:16:24 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:16:27 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:16:29 PM: INFO: Closing Chrome Browser
+02/14/2025 10:17:02 PM: INFO: Launching Chrome Browser
+02/14/2025 10:17:02 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:17:06 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:17:10 PM: INFO: Closing Chrome Browser
+02/14/2025 10:17:35 PM: INFO: Launching Chrome Browser
+02/14/2025 10:17:35 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:17:37 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:17:40 PM: INFO: Closing Chrome Browser
+02/14/2025 10:20:13 PM: INFO: Launching Chrome Browser
+02/14/2025 10:20:14 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:20:18 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:20:20 PM: INFO: Closing Chrome Browser
+02/14/2025 10:25:03 PM: INFO: Launching Chrome Browser
+02/14/2025 10:25:04 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:07 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:25:10 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:18 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 10:25:18 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:20 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 10:25:22 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:23 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 10:25:24 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:26 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 10:25:27 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Frame': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/frame" jsaction="click:;">...</a> is not clickable at point (430, 905). Other element would receive the click: <div id="aswift_2_host" style="border: none !important; height: 90px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:28 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:29 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 10:25:30 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Radio': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/radio" jsaction="click:;">...</a> is not clickable at point (772, 905). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250211/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-6251538267574677&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=1" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CPbq6NXQw4sDFRyOSwUdrvgFtQ" data-load-complete="true"></iframe>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:30 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:31 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 10:25:33 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Window': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/window" jsaction="click:;">...</a> is not clickable at point (1114, 905). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250211/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-6251538267574677&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=1" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CP20iNfQw4sDFeCNrAIdrjkrJw" data-load-complete="true"></iframe>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:33 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:34 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 10:25:35 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Elements': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/elements" jsaction="click:;">...</a> is not clickable at point (1456, 905). Other element would receive the click: <div id="aswift_2_host" style="border: none !important; height: 124px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:35 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:36 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 10:25:38 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Drag': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/draggable" jsaction="click:;">...</a> is not clickable at point (430, 905). Other element would receive the click: <div id="aswift_2_host" style="border: none !important; height: 124px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:38 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:39 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 10:25:40 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Drop': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/droppable" jsaction="click:;">...</a> is not clickable at point (772, 905). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250211/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-6251538267574677&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=1" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CPaUzNrQw4sDFddfnQkdn_kccg" data-load-complete="true"></iframe>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:40 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:41 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 10:25:42 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Sort': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/sortable" jsaction="click:;">...</a> is not clickable at point (1114, 904). Other element would receive the click: <iframe id="aswift_2" name="aswift_2" browsingtopics="true" style="width: 1005px !important; height: 124px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1005" height="124" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250211/r20190131/zrt_lookup_fy2021.html#RS-0-&amp;adk=1812271801&amp;client=ca-pub-6251538267574677&amp;fa=1&amp;ifi=3&amp;uci=a!3&amp;btvi=1" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CMmb3tvQw4sDFdalZgIdpBcj4Q" data-load-complete="true"></iframe>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x002A74A3+25091]
+	(No symbol) [0x0022DC04]
+	(No symbol) [0x0010B373]
+	(No symbol) [0x001554B8]
+	(No symbol) [0x001538C4]
+	(No symbol) [0x00151467]
+	(No symbol) [0x0015076A]
+	(No symbol) [0x001453A5]
+	(No symbol) [0x00171F0C]
+	(No symbol) [0x00144E44]
+	(No symbol) [0x001721A4]
+	(No symbol) [0x0018B49E]
+	(No symbol) [0x00171CA6]
+	(No symbol) [0x001431D5]
+	(No symbol) [0x0014435D]
+	GetHandleVerifier [0x005A07C3+3142947]
+	GetHandleVerifier [0x005B1A2B+3213195]
+	GetHandleVerifier [0x005AC412+3191154]
+	GetHandleVerifier [0x00348720+685184]
+	(No symbol) [0x00236E1D]
+	(No symbol) [0x00233E18]
+	(No symbol) [0x00233FB6]
+	(No symbol) [0x002266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:25:43 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:43 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 10:25:45 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:45 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 10:25:47 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:47 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 10:25:49 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:49 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 10:25:51 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:51 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 10:25:52 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:53 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 10:25:53 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:54 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 10:25:55 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:25:56 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 10:25:59 PM: INFO: Closing Chrome Browser
+02/14/2025 10:30:50 PM: INFO: Launching Chrome Browser
+02/14/2025 10:30:50 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:30:57 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 10:30:57 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:30:58 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 10:30:59 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:00 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 10:31:00 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:01 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 10:31:01 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:02 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 10:31:03 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:04 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 10:31:04 PM: INFO: Launching Chrome Browser
+02/14/2025 10:31:05 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:05 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:06 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 10:31:07 PM: INFO: Launching Chrome Browser
+02/14/2025 10:31:08 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:31:08 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:08 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:09 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 10:31:09 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 10:31:09 PM: INFO: Launching Chrome Browser
+02/14/2025 10:31:10 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:12 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:12 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:12 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 10:31:13 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 10:31:14 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:14 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 10:31:15 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:15 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 10:31:15 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 10:31:16 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:16 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:16 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 10:31:16 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 10:31:17 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:18 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:31:18 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 10:31:19 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 10:31:21 PM: INFO: Closing Chrome Browser
+02/14/2025 10:31:21 PM: INFO: Closing Chrome Browser
+02/14/2025 10:31:22 PM: INFO: Closing Chrome Browser
+02/14/2025 10:31:22 PM: INFO: Closing Chrome Browser
+02/14/2025 10:48:43 PM: INFO: Launching Chrome Browser
+02/14/2025 10:48:44 PM: INFO: Launching Chrome Browser
+02/14/2025 10:48:44 PM: INFO: Launching Chrome Browser
+02/14/2025 10:48:44 PM: INFO: Launching Chrome Browser
+02/14/2025 10:48:45 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:48:45 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:48:45 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:17 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008C74A3+25091]
+	(No symbol) [0x0084DC04]
+	(No symbol) [0x0072B373]
+	(No symbol) [0x0076F4DC]
+	(No symbol) [0x0076F65B]
+	(No symbol) [0x007AD8E2]
+	(No symbol) [0x00791F54]
+	(No symbol) [0x007AB49E]
+	(No symbol) [0x00791CA6]
+	(No symbol) [0x007631D5]
+	(No symbol) [0x0076435D]
+	GetHandleVerifier [0x00BC07C3+3142947]
+	GetHandleVerifier [0x00BD1A2B+3213195]
+	GetHandleVerifier [0x00BCC412+3191154]
+	GetHandleVerifier [0x00968720+685184]
+	(No symbol) [0x00856E1D]
+	(No symbol) [0x00853E18]
+	(No symbol) [0x00853FB6]
+	(No symbol) [0x008466F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:17 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:18 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D374A3+25091]
+	(No symbol) [0x00CBDC04]
+	(No symbol) [0x00B9B373]
+	(No symbol) [0x00BDF4DC]
+	(No symbol) [0x00BDF65B]
+	(No symbol) [0x00C1D8E2]
+	(No symbol) [0x00C01F54]
+	(No symbol) [0x00C1B49E]
+	(No symbol) [0x00C01CA6]
+	(No symbol) [0x00BD31D5]
+	(No symbol) [0x00BD435D]
+	GetHandleVerifier [0x010307C3+3142947]
+	GetHandleVerifier [0x01041A2B+3213195]
+	GetHandleVerifier [0x0103C412+3191154]
+	GetHandleVerifier [0x00DD8720+685184]
+	(No symbol) [0x00CC6E1D]
+	(No symbol) [0x00CC3E18]
+	(No symbol) [0x00CC3FB6]
+	(No symbol) [0x00CB66F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:18 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:28 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009874A3+25091]
+	(No symbol) [0x0090DC04]
+	(No symbol) [0x007EB373]
+	(No symbol) [0x0082F4DC]
+	(No symbol) [0x0082F65B]
+	(No symbol) [0x0086D8E2]
+	(No symbol) [0x00851F54]
+	(No symbol) [0x0086B49E]
+	(No symbol) [0x00851CA6]
+	(No symbol) [0x008231D5]
+	(No symbol) [0x0082435D]
+	GetHandleVerifier [0x00C807C3+3142947]
+	GetHandleVerifier [0x00C91A2B+3213195]
+	GetHandleVerifier [0x00C8C412+3191154]
+	GetHandleVerifier [0x00A28720+685184]
+	(No symbol) [0x00916E1D]
+	(No symbol) [0x00913E18]
+	(No symbol) [0x00913FB6]
+	(No symbol) [0x009066F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:28 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:29 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007A74A3+25091]
+	(No symbol) [0x0072DC04]
+	(No symbol) [0x0060B373]
+	(No symbol) [0x0064F4DC]
+	(No symbol) [0x0064F65B]
+	(No symbol) [0x0068D8E2]
+	(No symbol) [0x00671F54]
+	(No symbol) [0x0068B49E]
+	(No symbol) [0x00671CA6]
+	(No symbol) [0x006431D5]
+	(No symbol) [0x0064435D]
+	GetHandleVerifier [0x00AA07C3+3142947]
+	GetHandleVerifier [0x00AB1A2B+3213195]
+	GetHandleVerifier [0x00AAC412+3191154]
+	GetHandleVerifier [0x00848720+685184]
+	(No symbol) [0x00736E1D]
+	(No symbol) [0x00733E18]
+	(No symbol) [0x00733FB6]
+	(No symbol) [0x007266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:29 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:44 PM: INFO: Launching Chrome Browser
+02/14/2025 10:49:45 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:46 PM: INFO: Launching Chrome Browser
+02/14/2025 10:49:47 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:48 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008C74A3+25091]
+	(No symbol) [0x0084DC04]
+	(No symbol) [0x0072B373]
+	(No symbol) [0x0076F4DC]
+	(No symbol) [0x0076F65B]
+	(No symbol) [0x007AD8E2]
+	(No symbol) [0x00791F54]
+	(No symbol) [0x007AB49E]
+	(No symbol) [0x00791CA6]
+	(No symbol) [0x007631D5]
+	(No symbol) [0x0076435D]
+	GetHandleVerifier [0x00BC07C3+3142947]
+	GetHandleVerifier [0x00BD1A2B+3213195]
+	GetHandleVerifier [0x00BCC412+3191154]
+	GetHandleVerifier [0x00968720+685184]
+	(No symbol) [0x00856E1D]
+	(No symbol) [0x00853E18]
+	(No symbol) [0x00853FB6]
+	(No symbol) [0x008466F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:49 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:54 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D374A3+25091]
+	(No symbol) [0x00CBDC04]
+	(No symbol) [0x00B9B373]
+	(No symbol) [0x00BDF4DC]
+	(No symbol) [0x00BDF65B]
+	(No symbol) [0x00C1D8E2]
+	(No symbol) [0x00C01F54]
+	(No symbol) [0x00C1B49E]
+	(No symbol) [0x00C01CA6]
+	(No symbol) [0x00BD31D5]
+	(No symbol) [0x00BD435D]
+	GetHandleVerifier [0x010307C3+3142947]
+	GetHandleVerifier [0x01041A2B+3213195]
+	GetHandleVerifier [0x0103C412+3191154]
+	GetHandleVerifier [0x00DD8720+685184]
+	(No symbol) [0x00CC6E1D]
+	(No symbol) [0x00CC3E18]
+	(No symbol) [0x00CC3FB6]
+	(No symbol) [0x00CB66F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:49:54 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:56 PM: INFO: Launching Chrome Browser
+02/14/2025 10:49:57 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:49:59 PM: INFO: Launching Chrome Browser
+02/14/2025 10:50:00 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:50:01 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x009874A3+25091]
+	(No symbol) [0x0090DC04]
+	(No symbol) [0x007EB373]
+	(No symbol) [0x0082F4DC]
+	(No symbol) [0x0082F65B]
+	(No symbol) [0x0086D8E2]
+	(No symbol) [0x00851F54]
+	(No symbol) [0x0086B49E]
+	(No symbol) [0x00851CA6]
+	(No symbol) [0x008231D5]
+	(No symbol) [0x0082435D]
+	GetHandleVerifier [0x00C807C3+3142947]
+	GetHandleVerifier [0x00C91A2B+3213195]
+	GetHandleVerifier [0x00C8C412+3191154]
+	GetHandleVerifier [0x00A28720+685184]
+	(No symbol) [0x00916E1D]
+	(No symbol) [0x00913E18]
+	(No symbol) [0x00913FB6]
+	(No symbol) [0x009066F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:01 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:50:03 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007A74A3+25091]
+	(No symbol) [0x0072DC04]
+	(No symbol) [0x0060B373]
+	(No symbol) [0x0064F4DC]
+	(No symbol) [0x0064F65B]
+	(No symbol) [0x0068D8E2]
+	(No symbol) [0x00671F54]
+	(No symbol) [0x0068B49E]
+	(No symbol) [0x00671CA6]
+	(No symbol) [0x006431D5]
+	(No symbol) [0x0064435D]
+	GetHandleVerifier [0x00AA07C3+3142947]
+	GetHandleVerifier [0x00AB1A2B+3213195]
+	GetHandleVerifier [0x00AAC412+3191154]
+	GetHandleVerifier [0x00848720+685184]
+	(No symbol) [0x00736E1D]
+	(No symbol) [0x00733E18]
+	(No symbol) [0x00733FB6]
+	(No symbol) [0x007266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:06 PM: INFO: Closing Chrome Browser
+02/14/2025 10:50:18 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011174A3+25091]
+	(No symbol) [0x0109DC04]
+	(No symbol) [0x00F7B373]
+	(No symbol) [0x00FBF4DC]
+	(No symbol) [0x00FBF65B]
+	(No symbol) [0x00FFD8E2]
+	(No symbol) [0x00FE1F54]
+	(No symbol) [0x00FFB49E]
+	(No symbol) [0x00FE1CA6]
+	(No symbol) [0x00FB31D5]
+	(No symbol) [0x00FB435D]
+	GetHandleVerifier [0x014107C3+3142947]
+	GetHandleVerifier [0x01421A2B+3213195]
+	GetHandleVerifier [0x0141C412+3191154]
+	GetHandleVerifier [0x011B8720+685184]
+	(No symbol) [0x010A6E1D]
+	(No symbol) [0x010A3E18]
+	(No symbol) [0x010A3FB6]
+	(No symbol) [0x010966F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:18 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:50:20 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x011174A3+25091]
+	(No symbol) [0x0109DC04]
+	(No symbol) [0x00F7B373]
+	(No symbol) [0x00FBF4DC]
+	(No symbol) [0x00FBF65B]
+	(No symbol) [0x00FFD8E2]
+	(No symbol) [0x00FE1F54]
+	(No symbol) [0x00FFB49E]
+	(No symbol) [0x00FE1CA6]
+	(No symbol) [0x00FB31D5]
+	(No symbol) [0x00FB435D]
+	GetHandleVerifier [0x014107C3+3142947]
+	GetHandleVerifier [0x01421A2B+3213195]
+	GetHandleVerifier [0x0141C412+3191154]
+	GetHandleVerifier [0x011B8720+685184]
+	(No symbol) [0x010A6E1D]
+	(No symbol) [0x010A3E18]
+	(No symbol) [0x010A3FB6]
+	(No symbol) [0x010966F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:20 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008C74A3+25091]
+	(No symbol) [0x0084DC04]
+	(No symbol) [0x0072B373]
+	(No symbol) [0x0076F4DC]
+	(No symbol) [0x0076F65B]
+	(No symbol) [0x007AD8E2]
+	(No symbol) [0x00791F54]
+	(No symbol) [0x007AB49E]
+	(No symbol) [0x00791CA6]
+	(No symbol) [0x007631D5]
+	(No symbol) [0x0076435D]
+	GetHandleVerifier [0x00BC07C3+3142947]
+	GetHandleVerifier [0x00BD1A2B+3213195]
+	GetHandleVerifier [0x00BCC412+3191154]
+	GetHandleVerifier [0x00968720+685184]
+	(No symbol) [0x00856E1D]
+	(No symbol) [0x00853E18]
+	(No symbol) [0x00853FB6]
+	(No symbol) [0x008466F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:21 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:50:23 PM: INFO: Closing Chrome Browser
+02/14/2025 10:50:25 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00D374A3+25091]
+	(No symbol) [0x00CBDC04]
+	(No symbol) [0x00B9B373]
+	(No symbol) [0x00BDF4DC]
+	(No symbol) [0x00BDF65B]
+	(No symbol) [0x00C1D8E2]
+	(No symbol) [0x00C01F54]
+	(No symbol) [0x00C1B49E]
+	(No symbol) [0x00C01CA6]
+	(No symbol) [0x00BD31D5]
+	(No symbol) [0x00BD435D]
+	GetHandleVerifier [0x010307C3+3142947]
+	GetHandleVerifier [0x01041A2B+3213195]
+	GetHandleVerifier [0x0103C412+3191154]
+	GetHandleVerifier [0x00DD8720+685184]
+	(No symbol) [0x00CC6E1D]
+	(No symbol) [0x00CC3E18]
+	(No symbol) [0x00CC3FB6]
+	(No symbol) [0x00CB66F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:50:27 PM: INFO: Closing Chrome Browser
+02/14/2025 10:51:49 PM: INFO: Launching Chrome Browser
+02/14/2025 10:51:49 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:52:21 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007A74A3+25091]
+	(No symbol) [0x0072DC04]
+	(No symbol) [0x0060B373]
+	(No symbol) [0x0064F4DC]
+	(No symbol) [0x0064F65B]
+	(No symbol) [0x0068D8E2]
+	(No symbol) [0x00671F54]
+	(No symbol) [0x0068B49E]
+	(No symbol) [0x00671CA6]
+	(No symbol) [0x006431D5]
+	(No symbol) [0x0064435D]
+	GetHandleVerifier [0x00AA07C3+3142947]
+	GetHandleVerifier [0x00AB1A2B+3213195]
+	GetHandleVerifier [0x00AAC412+3191154]
+	GetHandleVerifier [0x00848720+685184]
+	(No symbol) [0x00736E1D]
+	(No symbol) [0x00733E18]
+	(No symbol) [0x00733FB6]
+	(No symbol) [0x007266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 10:52:23 PM: INFO: Closing Chrome Browser
+02/14/2025 10:55:17 PM: INFO: Launching Chrome Browser
+02/14/2025 10:55:18 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:55:51 PM: ERROR: ERROR :: chrome :: Error while opening Letcode test: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003074A3+25091]
+	(No symbol) [0x0028DC04]
+	(No symbol) [0x0016B373]
+	(No symbol) [0x001AF4DC]
+	(No symbol) [0x001AF65B]
+	(No symbol) [0x001ED8E2]
+	(No symbol) [0x001D1F54]
+	(No symbol) [0x001EB49E]
+	(No symbol) [0x001D1CA6]
+	(No symbol) [0x001A31D5]
+	(No symbol) [0x001A435D]
+	GetHandleVerifier [0x006007C3+3142947]
+	GetHandleVerifier [0x00611A2B+3213195]
+	GetHandleVerifier [0x0060C412+3191154]
+	GetHandleVerifier [0x003A8720+685184]
+	(No symbol) [0x00296E1D]
+	(No symbol) [0x00293E18]
+	(No symbol) [0x00293FB6]
+	(No symbol) [0x002866F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+	(No symbol) [0x00000000]
+
+02/14/2025 10:55:53 PM: INFO: Closing Chrome Browser
+02/14/2025 10:56:59 PM: INFO: Launching Chrome Browser
+02/14/2025 10:56:59 PM: INFO: INFO :: chrome :: Navigating to Letcode test page.
+02/14/2025 10:57:01 PM: INFO: INFO :: chrome :: Letcode test page Loaded Successfully.
+02/14/2025 10:57:01 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 10:57:04 PM: INFO: Closing Chrome Browser
+02/14/2025 11:32:22 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:22 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:23 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:23 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:23 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:25 PM: INFO: Launching Chrome Browser
+02/14/2025 11:32:26 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:27 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:28 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:30 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:31 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 11:32:32 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:32:35 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:36 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 11:32:37 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:37 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 11:32:37 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:32:37 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 11:33:01 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Select' to be clickable.
+02/14/2025 11:33:02 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:03 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:03 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 11:33:06 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Sort' to be clickable.
+02/14/2025 11:33:06 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Table' to be clickable.
+02/14/2025 11:33:06 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Drag' to be clickable.
+02/14/2025 11:33:06 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Frame' to be clickable.
+02/14/2025 11:33:07 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Window' to be clickable.
+02/14/2025 11:33:07 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:07 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:07 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:07 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:07 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Slider' to be clickable.
+02/14/2025 11:33:07 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Input' to be clickable.
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 11:33:08 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 11:33:09 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:09 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:09 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 11:33:09 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:10 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:10 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 11:33:10 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:10 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 11:33:12 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:12 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 11:33:33 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Alert' to be clickable.
+02/14/2025 11:33:33 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:34 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:34 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 11:33:38 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Multi-Select' to be clickable.
+02/14/2025 11:33:38 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Drop' to be clickable.
+02/14/2025 11:33:38 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Calendar' to be clickable.
+02/14/2025 11:33:38 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:38 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:33:39 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:39 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 11:33:39 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:33:39 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 11:33:39 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Radio' to be clickable.
+02/14/2025 11:33:40 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Elements' to be clickable.
+02/14/2025 11:33:40 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Waits' to be clickable.
+02/14/2025 11:33:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:33:42 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Button' to be clickable.
+02/14/2025 11:33:43 PM: INFO: Closing Chrome Browser
+02/14/2025 11:33:43 PM: INFO: Closing Chrome Browser
+02/14/2025 11:33:43 PM: INFO: Closing Chrome Browser
+02/14/2025 11:33:45 PM: INFO: Closing Chrome Browser
+02/14/2025 11:34:04 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'Forms' to be clickable.
+02/14/2025 11:34:06 PM: INFO: Closing Chrome Browser
+02/14/2025 11:34:09 PM: ERROR: ERROR :: chrome :: Timed out waiting for menu card 'File' to be clickable.
+
+02/14/2025 11:34:12 PM: INFO: Closing Chrome Browser
+02/14/2025 11:34:12 PM: INFO: Closing Chrome Browser
+02/14/2025 11:35:43 PM: INFO: Launching Chrome Browser
+02/14/2025 11:35:43 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:35:44 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:35:44 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:35:45 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 11:35:47 PM: INFO: Closing Chrome Browser
+02/14/2025 11:38:51 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:52 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:53 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:53 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:54 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:54 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:54 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:56 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:56 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:57 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:57 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:58 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:38:59 PM: INFO: Launching Chrome Browser
+02/14/2025 11:38:59 PM: INFO: Launching Chrome Browser
+02/14/2025 11:39:01 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:01 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:05 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:05 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:11 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:11 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 11:39:13 PM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/14/2025 11:39:13 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:13 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:13 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:13 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:14 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:15 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:16 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:16 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 11:39:16 PM: INFO: INFO :: chrome :: navigated to Frame page successfully.
+02/14/2025 11:39:16 PM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/14/2025 11:39:17 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:17 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:17 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 11:39:17 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:18 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:18 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 11:39:19 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:19 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 11:39:19 PM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/14/2025 11:39:20 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:20 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 11:39:21 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:21 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 11:39:21 PM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/14/2025 11:39:21 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:22 PM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/14/2025 11:39:23 PM: INFO: INFO :: chrome :: navigated to Table page successfully.
+02/14/2025 11:39:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:24 PM: ERROR: ERROR :: chrome :: Failed to click menu card 'Slider': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/slider">...</a> is not clickable at point (430, 905). Other element would receive the click: <div id="aswift_2_host" style="border: none !important; height: 124px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00CA74A3+25091]
+	(No symbol) [0x00C2DC04]
+	(No symbol) [0x00B0B373]
+	(No symbol) [0x00B554B8]
+	(No symbol) [0x00B538C4]
+	(No symbol) [0x00B51467]
+	(No symbol) [0x00B5076A]
+	(No symbol) [0x00B453A5]
+	(No symbol) [0x00B71F0C]
+	(No symbol) [0x00B44E44]
+	(No symbol) [0x00B721A4]
+	(No symbol) [0x00B8B49E]
+	(No symbol) [0x00B71CA6]
+	(No symbol) [0x00B431D5]
+	(No symbol) [0x00B4435D]
+	GetHandleVerifier [0x00FA07C3+3142947]
+	GetHandleVerifier [0x00FB1A2B+3213195]
+	GetHandleVerifier [0x00FAC412+3191154]
+	GetHandleVerifier [0x00D48720+685184]
+	(No symbol) [0x00C36E1D]
+	(No symbol) [0x00C33E18]
+	(No symbol) [0x00C33FB6]
+	(No symbol) [0x00C266F0]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/14/2025 11:39:25 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:25 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 11:39:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:26 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:26 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 11:39:26 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:26 PM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/14/2025 11:39:27 PM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/14/2025 11:39:27 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:27 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:27 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:28 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:28 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:30 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:30 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:39:30 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:30 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:30 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:31 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:31 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:32 PM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:33 PM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/14/2025 11:39:34 PM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/14/2025 11:39:35 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:35 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 11:39:36 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:39:37 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:39:37 PM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/14/2025 11:39:37 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:39:37 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 11:39:38 PM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:41 PM: INFO: Closing Chrome Browser
+02/14/2025 11:39:42 PM: INFO: Closing Chrome Browser
+02/14/2025 11:43:36 PM: INFO: Launching Chrome Browser
+02/14/2025 11:43:36 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/14/2025 11:43:40 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:43:41 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:43:41 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:43:41 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:43:41 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 11:43:41 PM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/14/2025 11:43:44 PM: INFO: Closing Chrome Browser
+02/14/2025 11:43:47 PM: INFO: Launching Chrome Browser
+02/14/2025 11:43:47 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:43:51 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:43:51 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:43:51 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:43:51 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 11:43:51 PM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/14/2025 11:43:52 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:43:52 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:43:52 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:43:52 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:43:52 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 11:43:53 PM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/14/2025 11:43:55 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:09 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:09 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:12 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:12 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:12 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:12 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 11:44:13 PM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/14/2025 11:44:13 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:13 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:13 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:14 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:15 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:15 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:15 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:17 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:17 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:18 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:18 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:18 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:18 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 11:44:19 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:19 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:19 PM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/14/2025 11:44:19 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:19 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 11:44:20 PM: INFO: INFO :: chrome :: navigated to Slider page successfully.
+02/14/2025 11:44:20 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:20 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:21 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:21 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 11:44:21 PM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/14/2025 11:44:22 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:22 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:22 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:22 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:22 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:22 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 11:44:23 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:23 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:23 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:24 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:25 PM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/14/2025 11:44:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:27 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:27 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:28 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:29 PM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/14/2025 11:44:29 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:30 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:30 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:30 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 11:44:30 PM: INFO: INFO :: chrome :: navigated to Frame page successfully.
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/14/2025 11:44:31 PM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/14/2025 11:44:33 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:33 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:34 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:34 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:39 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:39 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:41 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:41 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:41 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:41 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 11:44:42 PM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/14/2025 11:44:44 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:44 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:44 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:45 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:45 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:46 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:46 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:47 PM: INFO: Launching Chrome Browser
+02/14/2025 11:44:47 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:47 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:47 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:47 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:47 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 11:44:48 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:48 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 11:44:48 PM: INFO: INFO :: chrome :: navigated to Table page successfully.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:44:49 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:44:50 PM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/14/2025 11:44:50 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:44:50 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 11:44:50 PM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/14/2025 11:44:51 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:52 PM: INFO: Closing Chrome Browser
+02/14/2025 11:44:52 PM: INFO: Closing Chrome Browser
+02/14/2025 11:48:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:24 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:25 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:25 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:26 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:26 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:26 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:27 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:28 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:29 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:30 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:30 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:31 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:31 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:31 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:31 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:32 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:32 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:33 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:34 PM: INFO: Launching Chrome Browser
+02/14/2025 11:48:34 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:35 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:36 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:36 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:37 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:46 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:47 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:47 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:47 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:48 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:49 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:49 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:49 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:49 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:50 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:51 PM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/14/2025 11:48:51 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:52 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/14/2025 11:48:53 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:54 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:48:54 PM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/14/2025 11:48:55 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:57 PM: INFO: INFO :: chrome :: navigated to Frame page successfully.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:48:58 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:59 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:48:59 PM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/14/2025 11:48:59 PM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/14/2025 11:48:59 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:48:59 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:00 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:00 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:02 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:02 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:04 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:04 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:17 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:18 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:18 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:19 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:19 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:19 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:19 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:20 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:20 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:20 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:21 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:21 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:21 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:22 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:22 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:23 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:23 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:23 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:24 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:24 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:24 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:24 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:24 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:25 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:25 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:25 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:26 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:26 PM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/14/2025 11:49:27 PM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/14/2025 11:49:27 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:28 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:28 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:28 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:28 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:28 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:29 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:30 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:30 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:31 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:31 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:31 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:31 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:31 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:32 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:32 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/14/2025 11:49:33 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:33 PM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:34 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:34 PM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/14/2025 11:49:35 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:35 PM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/14/2025 11:49:35 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:35 PM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/14/2025 11:49:36 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:36 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:36 PM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/14/2025 11:49:37 PM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/14/2025 11:49:37 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:38 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:38 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:38 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:38 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:39 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:40 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: navigated to Slider page successfully.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:41 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:42 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:42 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:42 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:43 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:43 PM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/14/2025 11:49:44 PM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:45 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:46 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:46 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:49 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:49 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:51 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:51 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:53 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:53 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:54 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:54 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:55 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:55 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:55 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:55 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:56 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:56 PM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/14/2025 11:49:56 PM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/14/2025 11:49:56 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:57 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:58 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:49:58 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:49:59 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:49:59 PM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/14/2025 11:49:59 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:49:59 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:49:59 PM: INFO: INFO :: chrome :: navigated to Table page successfully.
+02/14/2025 11:49:59 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:00 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:00 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:01 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:01 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:01 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:01 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:01 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:02 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:02 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:50:02 PM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/14/2025 11:50:02 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:02 PM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/14/2025 11:50:03 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:03 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:05 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:05 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:05 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:05 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:05 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:06 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:50:06 PM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/14/2025 11:50:06 PM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/14/2025 11:50:08 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:11 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:11 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:11 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:11 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:12 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:12 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:12 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:12 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:12 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:50:12 PM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/14/2025 11:50:13 PM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/14/2025 11:50:13 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:13 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:14 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/14/2025 11:50:14 PM: INFO: INFO :: chrome :: Clicking menu card: File
+02/14/2025 11:50:14 PM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/14/2025 11:50:15 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:15 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:15 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:15 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:16 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:16 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:16 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:16 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:16 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/14/2025 11:50:17 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:17 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:17 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:17 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:18 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:18 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:18 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/14/2025 11:50:18 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/14/2025 11:50:19 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:21 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:23 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:27 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:29 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:30 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:33 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:33 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:35 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:45 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:47 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:48 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:48 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:49 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/14/2025 11:50:50 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:51 PM: INFO: Closing Chrome Browser
+02/14/2025 11:50:51 PM: INFO: Closing Chrome Browser
+02/15/2025 12:10:17 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:17 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:19 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:20 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:22 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:22 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:22 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:22 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:22 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:23 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:23 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:23 AM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/15/2025 12:10:23 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:23 AM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/15/2025 12:10:23 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:24 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/15/2025 12:10:25 AM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/15/2025 12:10:26 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:26 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:27 AM: INFO: INFO :: chrome :: Clicking menu card: Elements
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: navigated to Elements page successfully.
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:28 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:29 AM: ERROR: ERROR :: chrome :: Failed to click menu card 'Frame': Message: element click intercepted: Element <a _ngcontent-ng-c3873573971="" class="card-footer-item" href="/frame">...</a> is not clickable at point (233, 492). Other element would receive the click: <iframe id="aswift_4" name="aswift_4" browsingtopics="true" style="width: 288px !important; height: 96px !important; display: block; margin: 0px auto;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="288" height="96" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20250211/r20190131/zrt_lookup.html#RS-1-&amp;adk=1812271801&amp;client=ca-pub-6251538267574677&amp;fa=1&amp;ifi=5&amp;uci=a!5&amp;btvi=3" data-google-container-id="a!5" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CK2N9JDow4sDFTyKrAIdSgQRFw"></iframe>
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+	GetHandleVerifier [0x006802D3+25139]
+	(No symbol) [0x0060B284]
+	(No symbol) [0x004E04A3]
+	(No symbol) [0x0052E5D0]
+	(No symbol) [0x0052C984]
+	(No symbol) [0x0052A517]
+	(No symbol) [0x005297D4]
+	(No symbol) [0x0051DE55]
+	(No symbol) [0x0054CF3C]
+	(No symbol) [0x0051D8E4]
+	(No symbol) [0x0054D1B4]
+	(No symbol) [0x0056E6E1]
+	(No symbol) [0x0054CD36]
+	(No symbol) [0x0051BD29]
+	(No symbol) [0x0051D064]
+	GetHandleVerifier [0x0098B193+3215603]
+	GetHandleVerifier [0x009A230A+3310186]
+	GetHandleVerifier [0x0099C522+3286146]
+	GetHandleVerifier [0x00719CD0+654384]
+	(No symbol) [0x0061460D]
+	(No symbol) [0x006114F8]
+	(No symbol) [0x00611697]
+	(No symbol) [0x00603D70]
+	BaseThreadInitThunk [0x76DB7BA9+25]
+	RtlInitializeExceptionChain [0x770DC28B+107]
+	RtlClearBits [0x770DC20F+191]
+
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:29 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:30 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:30 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:30 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:30 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:30 AM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/15/2025 12:10:31 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Clicking menu card: Sort
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:31 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:32 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:32 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: navigated to Sort page successfully.
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:33 AM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/15/2025 12:10:34 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:34 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:34 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:34 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:36 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/15/2025 12:10:38 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:10:38 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:39 AM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/15/2025 12:10:39 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:39 AM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/15/2025 12:10:40 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:40 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:40 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:41 AM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/15/2025 12:10:42 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:42 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:42 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: Clicking menu card: Multi-Select
+02/15/2025 12:10:43 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:44 AM: INFO: INFO :: chrome :: navigated to Multi-Select page successfully.
+02/15/2025 12:10:45 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:45 AM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/15/2025 12:10:45 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:45 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:45 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:47 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:47 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:47 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:48 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:48 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:49 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:49 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:51 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:51 AM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/15/2025 12:10:51 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:51 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:51 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:52 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:52 AM: INFO: INFO :: chrome :: navigated to Slider page successfully.
+02/15/2025 12:10:52 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:52 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:53 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:53 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:53 AM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:10:54 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:55 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:55 AM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 12:10:55 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:55 AM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/15/2025 12:10:56 AM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: navigated to Slider page successfully.
+02/15/2025 12:10:57 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Clicking menu card: Window
+02/15/2025 12:10:57 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:10:58 AM: INFO: Launching Chrome Browser
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:10:58 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:10:59 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:10:59 AM: INFO: INFO :: chrome :: navigated to Window page successfully.
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:00 AM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/15/2025 12:11:01 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:01 AM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/15/2025 12:11:01 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:01 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:02 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:02 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:02 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/15/2025 12:11:03 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:05 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:05 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:05 AM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/15/2025 12:11:05 AM: INFO: Launching Chrome Browser
+02/15/2025 12:11:06 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:06 AM: INFO: INFO :: chrome :: Clicking menu card: Slider
+02/15/2025 12:11:06 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:06 AM: INFO: Launching Chrome Browser
+02/15/2025 12:11:07 AM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/15/2025 12:11:07 AM: INFO: Launching Chrome Browser
+02/15/2025 12:11:07 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:08 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:08 AM: INFO: INFO :: chrome :: Clicking menu card: Waits
+02/15/2025 12:11:08 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:08 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:08 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:09 AM: INFO: INFO :: chrome :: navigated to Waits page successfully.
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: navigated to Slider page successfully.
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:10 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:13 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:13 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:14 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:14 AM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/15/2025 12:11:14 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:14 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/15/2025 12:11:15 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:17 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+
+02/15/2025 12:11:17 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:17 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:18 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:19 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:19 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:19 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:19 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:19 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:20 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:21 AM: INFO: INFO :: chrome :: Clicking menu card: Alert
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Clicking menu card: Table
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: navigated to Alert page successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: navigated to Table page successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:22 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:23 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:23 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:23 AM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/15/2025 12:11:24 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: navigated to Table page successfully.
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:25 AM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:26 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/15/2025 12:11:27 AM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:28 AM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Clicking menu card: File
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:29 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: Clicking menu card: File
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:30 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:31 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:32 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Clicking menu card: File
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Clicking menu card: Drag
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:33 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: navigated to File page successfully.
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:34 AM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: navigated to Input page successfully.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: navigated to Drag page successfully.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:35 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:37 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:37 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:37 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:37 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:37 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:38 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/15/2025 12:11:39 AM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Clicking menu card: Select
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:40 AM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/15/2025 12:11:41 AM: INFO: INFO :: chrome :: navigated to Select page successfully.
+02/15/2025 12:11:41 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:41 AM: INFO: INFO :: chrome :: Clicking menu card: Shadow
+02/15/2025 12:11:41 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: navigated to Shadow page successfully.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:42 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:43 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:43 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:43 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:43 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:43 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Clicking menu card: Drop
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:44 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: navigated to Drop page successfully.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Clicking menu card: Radio
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:45 AM: INFO: INFO :: chrome :: Clicking menu card: Calendar
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: navigated to Radio page successfully.
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: navigated to Calendar page successfully.
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: Clicking menu card: Button
+02/15/2025 12:11:46 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:47 AM: INFO: INFO :: chrome :: navigated to Button page successfully.
+02/15/2025 12:11:47 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:47 AM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: navigated to Frame page successfully.
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:48 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:49 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:49 AM: INFO: INFO :: chrome :: Clicking menu card: Forms
+02/15/2025 12:11:49 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:49 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:49 AM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 12:11:49 AM: INFO: INFO :: chrome :: navigated to Forms page successfully.
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 12:11:50 AM: INFO: INFO :: chrome :: Clicking menu card: Frame
+02/15/2025 12:11:51 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:51 AM: INFO: INFO :: chrome :: navigated to Frame page successfully.
+02/15/2025 12:11:51 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:52 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:52 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:52 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:53 AM: INFO: Closing Chrome Browser
+02/15/2025 12:11:54 AM: INFO: Closing Chrome Browser
