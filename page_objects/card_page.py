@@ -41,7 +41,8 @@ class CardPage(BasePage):
             locator = self.get_menu_card_xpath(card_name)
             self._log(f"Clicking menu card: {card_name.strip().title()}")
             element = self.wait.until(EC.element_to_be_clickable(locator))
-            element.click()
+            self.driver.execute_script("arguments[0].click();", element)
+            # element.click()
 
             self.wait.until(EC.url_matches(BASE_URL + MENU_CARDS[card_name]))
 
