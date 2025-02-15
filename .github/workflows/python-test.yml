@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest -s -v -n=auto test_cases\test_input_page_functionality.py
+          pytest -s -v -n=auto test_cases/test_input_page_functionality.py
 
       - name: List Reports Directory
         run: ls -R Reports
