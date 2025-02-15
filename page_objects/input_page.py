@@ -126,10 +126,14 @@ class InputPage(BasePage):
         
         try:
             element = self.wait.until(EC.visibility_of_element_located(self.INPUT_DISABLE_ID))
-            readonly_value = element.get_attribute("readonly")
+            # readonly_value = element.get_attribute("readonly")
             
-            self._log(f"Read-only attribute value: {readonly_value}")
-            assert readonly_value == "true", "The edit field is not read-only."
+            # self._log(f"Read-only attribute value: {readonly_value}")
+            # assert readonly_value == "true", "The edit field is not read-only."
+            is_readonly = element.get_property("readOnly")
+            
+            self._log(f"Read-only property value: {is_readonly}")
+            assert is_readonly is True, "The edit field is not read-only."
             
         except TimeoutException:
             error_msg = "Timed out while confirming that the text box is read-only."
