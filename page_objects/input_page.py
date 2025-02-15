@@ -144,3 +144,26 @@ class InputPage(BasePage):
             raise
         else:
             self._log("Confirmation successful: The text box is read-only.")
+
+    def confirm_text_is_readonly_dontwrite_text_box(self):
+        try:
+            self._log("Confirm text is readonly for 'dontwrite' text box")
+            element = self.wait.until(EC.visibility_of_element_located(self.INPUT_READONLY_ID))
+            
+            # Debug both attribute and property
+            readonly_attr = element.get_attribute("readonly")
+            readonly_prop = element.get_property("readOnly")  # Case-sensitive
+            
+            self._log(f"Attribute 'readonly': {readonly_attr}")
+            self._log(f"Property 'readOnly': {readonly_prop}")
+            
+            # Assert based on your application's behavior
+            assert readonly_prop is True, "Element is not readonly (property check failed)"
+        except TimeoutException:
+            self._log("Timed out waiting for 'dontwrite' element", is_error=True)
+            raise
+        except Exception as e:
+            self._log(f"Error checking readonly state: {str(e)}", is_error=True)
+            raise
+        else:
+            self._log("Confirmed text is readonly via property check.")
