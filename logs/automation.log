@@ -2497,3 +2497,108 @@ Stacktrace:
 02/15/2025 12:29:36 PM: INFO: INFO :: MicrosoftEdge :: Clicking menu card: Elements
 02/15/2025 12:29:36 PM: INFO: INFO :: MicrosoftEdge :: Navigated to Elements page successfully.
 02/15/2025 12:29:36 PM: INFO: INFO :: MicrosoftEdge :: Opening Letcode website.
+02/15/2025 07:13:14 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:14 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:14 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:14 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:16 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:16 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:17 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:17 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:17 PM: INFO: Launching Chrome Browser
+02/15/2025 07:13:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:18 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:19 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:20 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:20 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:20 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:20 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:21 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:23 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:29 PM: INFO: Launching Edge Browser
+02/15/2025 07:13:30 PM: INFO: INFO :: MicrosoftEdge :: Opening Letcode website.
+02/15/2025 07:13:35 PM: INFO: Launching Edge Browser
+02/15/2025 07:13:35 PM: INFO: INFO :: MicrosoftEdge :: Opening Letcode website.
+02/15/2025 07:13:42 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:13:42 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:13:42 PM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 07:13:43 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:13:43 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:13:45 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:13:45 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:13:45 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:13:45 PM: INFO: INFO :: chrome :: check What is inside the get me text box
+02/15/2025 07:13:46 PM: INFO: INFO :: chrome :: check What is inside the get me text box, and it is not empty.
+02/15/2025 07:13:46 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:13:56 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: Confirm edit field is disabled no edit text box
+02/15/2025 07:13:57 PM: INFO: INFO :: chrome :: edit field is disabled in no edit text box as expected.
+02/15/2025 07:13:58 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:13:58 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: check What is inside the get me text box
+02/15/2025 07:14:04 PM: INFO: INFO :: chrome :: check What is inside the get me text box, and it is not empty.
+02/15/2025 07:14:07 PM: INFO: Closing Chrome Browser
+02/15/2025 07:14:07 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:07 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:07 PM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 07:14:07 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Letcode website loaded successfully.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: The device is tablet, hence clicking on the navbar burger icon
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: The device is desktop, hence not clicking on navbar burger icon
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Checking if the device is 'tablet' or 'mobile'
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: The device is mobile, hence clicking on the navbar burger icon
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:14:08 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Enter the user full name: Gokul Dev
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Navbar burger icon clicked successfully
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:09 PM: INFO: INFO :: chrome :: Clicking testing workspace from navigation bar.
+02/15/2025 07:14:10 PM: INFO: INFO :: chrome :: navigated to Testing workspace successfully.
+02/15/2025 07:14:10 PM: INFO: INFO :: chrome :: Clicking menu card: Input
+02/15/2025 07:14:11 PM: INFO: INFO :: chrome :: Entered full name 'Gokul Dev' successfully.
+02/15/2025 07:14:11 PM: INFO: INFO :: chrome :: Navigated to Input page successfully.
+02/15/2025 07:14:11 PM: INFO: INFO :: chrome :: Confirm edit field is disabled no edit text box
+02/15/2025 07:14:11 PM: INFO: INFO :: chrome :: edit field is disabled in no edit text box as expected.
+02/15/2025 07:14:14 PM: INFO: Closing Chrome Browser
+02/15/2025 07:14:17 PM: INFO: Closing Chrome Browser
+02/15/2025 07:14:39 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/15/2025 07:14:40 PM: INFO: INFO :: chrome :: Opening Letcode website.
+02/15/2025 07:14:40 PM: ERROR: ERROR :: chrome :: Timed out waiting for testing workspace link to be clickable.
+02/15/2025 07:14:40 PM: INFO: INFO :: chrome :: Opening Letcode website.
