@@ -127,6 +127,7 @@ class InputPage(BasePage):
             element = self.wait.until(EC.visibility_of_element_located(self.INPUT_DISABLE_ID))
             element.get_attribute("readonly")
             readonly_value = element.get_attribute("readonly")
+            self._log(f"Confirm text is readonly for don't write text box{readonly_value}")
             assert readonly_value is not None, "The edit field is not readonly"
         except TimeoutException as e:
             error_msg = f"Timed out while Confirm text is readonly for don't write text box."
