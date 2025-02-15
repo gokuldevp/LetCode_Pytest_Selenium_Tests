@@ -152,7 +152,7 @@ class InputPage(BasePage):
             
             # Debug both attribute and property
             readonly_attr = element.get_attribute("readonly")
-            readonly_prop = element.get_property("readOnly")  # Case-sensitive
+            readonly_prop = element.get_property("readOnly")
             
             self._log(f"Attribute 'readonly': {readonly_attr}")
             self._log(f"Property 'readOnly': {readonly_prop}")
