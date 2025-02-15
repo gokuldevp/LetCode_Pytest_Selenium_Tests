@@ -120,20 +120,23 @@ class InputPage(BasePage):
 
     def confirm_text_is_readonly_dontwrite_text_box(self):
         """
-        Confirm text is readonly for don't write text box
+        Confirm that the text box is read-only.
         """
+        self._log("Confirming that the text box is read-only.")
+        
         try:
-            self._log(f"Confirm text is readonly for don't write text box")
             element = self.wait.until(EC.visibility_of_element_located(self.INPUT_DISABLE_ID))
             readonly_value = element.get_attribute("readonly")
-            self._log(f"Confirm text is readonly for don't write text box{readonly_value}")
-            assert readonly_value is True, "The edit field is not readonly"
-        except TimeoutException as e:
-            error_msg = f"Timed out while Confirm text is readonly for don't write text box."
+            
+            self._log(f"Read-only attribute value: {readonly_value}")
+            assert readonly_value == "true", "The edit field is not read-only."
+            
+        except TimeoutException:
+            error_msg = "Timed out while confirming that the text box is read-only."
             self._log(error_msg, is_error=True)
             raise
         except Exception as e:
-            self._log(f"Error while Confirm text is readonly for don't write text box : {str(e)}", is_error=True)
+            self._log(f"Error while confirming that the text box is read-only: {str(e)}", is_error=True)
             raise
         else:
-            self._log(f"Text is readonly for don't write text box is confirmed.")
+            self._log("Confirmation successful: The text box is read-only.")
